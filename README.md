@@ -4,11 +4,13 @@
 
 A WhatsApp Chat Analyzer is a Python application that uses data science techniques to analyze and gain insights from WhatsApp chat logs. This tool provides various features to help you understand the dynamics of your WhatsApp conversations and extract valuable information from them.
 
+
+## Snapshot of project:
 ![wpPic](https://github.com/MZKhan18/WhatsApp-Chat-Annalyzer/assets/83308074/f2fa304b-96cd-490f-9c4b-a9fbacd619dd)
 
 
 
-## Working Demo https://whatsapp-chat-analyzer-45gy.onrender.com
+## Working Demo ### https://whatsapp-chat-analyzer-45gy.onrender.com
 
 NOTE: render provides only 30 minutes of hosting for a free server. So if the site is not opening then the render account should be reloaded by the admin (me). 
 In that case you can DM me about the same and i will activate the server
