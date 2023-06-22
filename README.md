@@ -10,7 +10,7 @@ A WhatsApp Chat Analyzer is a Python application that uses data science techniqu
 
 
 
-## Working Demo ### https://whatsapp-chat-analyzer-45gy.onrender.com
+## Working Demo https://whatsapp-chat-analyzer-45gy.onrender.com
 
 NOTE: render provides only 30 minutes of hosting for a free server. So if the site is not opening then the render account should be reloaded by the admin (me). 
 In that case you can DM me about the same and i will activate the server
