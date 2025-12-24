@@ -4,10 +4,11 @@ import seaborn as sns
 import preprocessor
 import helper
 
-st.set_page_config(page_title="WhatsApp Chat Analyzer", layout="wide")
+st.title("Chat Insights 🔍💬")
+st.set_page_config(page_title="Chat Insights", layout="wide")
 
 # ================= SIDEBAR =================
-st.sidebar.title("WhatsApp Chat Analyzer")
+st.sidebar.title("Chat Insights")
 uploaded_file = st.sidebar.file_uploader("Upload WhatsApp Chat (.txt)")
 
 if uploaded_file is not None:
@@ -227,3 +228,4 @@ if uploaded_file is not None:
         else:
             st.write(f"Periods where the chat was inactive for more than 24 hours:")
             st.dataframe(inactive_df)
+
