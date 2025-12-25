@@ -1,8 +1,8 @@
-# WhatsApp Chat Analyzer
+# Chat Insights
 
 
 
-A WhatsApp Chat Analyzer is a Python application that uses data science techniques to analyze and gain insights from WhatsApp chat logs. This tool provides various features to help you understand the dynamics of your WhatsApp conversations and extract valuable information from them.
+Chat Insights is a Python application that uses data science techniques to analyze and gain insights from WhatsApp chat logs. This tool provides various features to help you understand the dynamics of your WhatsApp conversations and extract valuable information from them.
 
 
 ## Snapshot of project:
